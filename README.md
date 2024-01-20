@@ -85,7 +85,10 @@ The goal of the Azure-HostedThe Integrated Oil and Technology Solutions project 
 ![Screenshot 2024-01-19 153151](https://github.com/rohan7739/demo_oil/assets/140694225/dd720534-103d-4c44-b016-3cd75d3f57ae)
 
 - *Product Page*
-  
+  ![Screenshot 2024-01-19 153203](https://github.com/rohan7739/demo_oil/assets/140694225/34ecc90a-42c3-43a5-94b2-3bbd530312ed)
+  ![Screenshot 2024-01-19 153233](https://github.com/rohan7739/demo_oil/assets/140694225/5afc916f-8325-4b01-80bc-3614aa5a7784)
+  ![Screenshot 2024-01-19 153221](https://github.com/rohan7739/demo_oil/assets/140694225/4d599d70-b00b-473f-ac81-6461d8eaf2bd)
+  ![Screenshot 2024-01-19 153303](https://github.com/rohan7739/demo_oil/assets/140694225/166f208e-619e-44d4-be30-7db9eb7bf723)
 
 
 - *Contact us Page*
