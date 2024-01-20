@@ -61,6 +61,11 @@ The goal of the Azure-HostedThe Integrated Oil and Technology Solutions project 
 - *App Services*
   ![Screenshot 2024-01-19 152009](https://github.com/rohan7739/demo_oil/assets/140694225/4461660a-83eb-49bc-bc29-bba828a8227b)
 
+- *Language service*
+![Screenshot 2024-01-19 152454](https://github.com/rohan7739/demo_oil/assets/140694225/6d7cbcb1-a68f-48a7-b74d-2cc59e69b876)
 
+
+- *Bot service*
+  
 
 
