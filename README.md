@@ -17,7 +17,6 @@ The goal of the Azure-HostedThe Integrated Oil and Technology Solutions project 
 - *Resource Group*
 - *Application Insights*
 
-
 # Azure AI Services :
 
 - *Azure Language Services* 
