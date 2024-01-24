@@ -16,6 +16,7 @@ The oil and gas industry faces challenges in optimizing operational efficiency a
 - *Azure App Service (for hosting the website)*
 - *Resource Group*
 - *Application Insights*
+- *API Management*
 
 # Azure AI Services :
 
