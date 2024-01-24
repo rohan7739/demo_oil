@@ -5,7 +5,7 @@
 * Demo oil and Technologies SPC company 
 
 # Problem Statement :
-Building an oil and Technologies Website that will make use of Azure Services and assist users in finding a variety of oil to diffferent companies.we also provide ISO certification to that companies we also slove their problems through providing the Services
+The oil and gas industry faces challenges in optimizing operational efficiency and ensuring safety standards. "Demo Oil and Technology SPC Company" seeks to address these issues by providing state-of-the-art solutions. The sector demands cost-effective and innovative approaches for exploration, production, and distribution. The project aims to bridge this gap by supplying a comprehensive range of mechanical, instruments, electrical, and safety products. The challenges encompass the dynamic nature of the industry, with evolving technological needs in both upstream and downstream segments. "Demo Oil and Technology SPC Company" is committed to delivering cutting-edge solutions, staying in line with international standards, and fostering the success of businesses in the ever-changing landscape of the oil and gas sector.
 
 # Project Description :
 
