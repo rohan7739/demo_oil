@@ -57,37 +57,37 @@ The oil and gas industry faces challenges in optimizing operational efficiency a
 
 - *Resource Group*
 
-![Screenshot 2024-01-19 151836](https://github.com/rohan7739/demo_oil/assets/140694225/d42a26f9-39f6-4bf1-b872-6294ed760238)
+ ![image](https://github.com/rohan7739/demo_oil/assets/140694225/3a1bfda9-8ddb-4859-880f-5318d7c23526)
 
 - *App Services*
-  ![Screenshot 2024-01-19 152009](https://github.com/rohan7739/demo_oil/assets/140694225/4461660a-83eb-49bc-bc29-bba828a8227b)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/50484f66-24c3-4e03-8cf6-015eeadb455e)
 
 - *Language service*
-![Screenshot 2024-01-19 152454](https://github.com/rohan7739/demo_oil/assets/140694225/6d7cbcb1-a68f-48a7-b74d-2cc59e69b876)
+![image](https://github.com/rohan7739/demo_oil/assets/140694225/0fdbb385-da28-42ee-ab17-f1afd7a06679)
 
 
 - *Bot service*
 
-  ![Screenshot 2024-01-19 152614](https://github.com/rohan7739/demo_oil/assets/140694225/bf9bf637-458d-4f85-b7bd-849ee031a9e5)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/63d8271c-73ad-48e8-bb40-3f6737f52d7c)
 
 - *Application Insights*
 
-  ![Screenshot 2024-01-19 152254](https://github.com/rohan7739/demo_oil/assets/140694225/39e2db40-8043-4038-a920-6a3c3ab4984e)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/66d01a97-f964-4453-b8fa-10b27b6619d0)
 
   # ScreenShots of the website after deploying
 - *Home Page*
 
-  ![Screenshot 2024-01-19 153133](https://github.com/rohan7739/demo_oil/assets/140694225/9d63c793-41dc-483a-a509-fc1ef44b683f)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/d361d460-dd6d-4c2e-a190-7dfd06aa8b5c)
 
 - *Cetificate Page*
 
-![Screenshot 2024-01-19 153151](https://github.com/rohan7739/demo_oil/assets/140694225/dd720534-103d-4c44-b016-3cd75d3f57ae)
+![image](https://github.com/rohan7739/demo_oil/assets/140694225/b1e0c705-a05a-4f1a-9744-21bf97351931)
 
 - *Product Page*
-  ![Screenshot 2024-01-19 153203](https://github.com/rohan7739/demo_oil/assets/140694225/34ecc90a-42c3-43a5-94b2-3bbd530312ed)
-  ![Screenshot 2024-01-19 153233](https://github.com/rohan7739/demo_oil/assets/140694225/5afc916f-8325-4b01-80bc-3614aa5a7784)
-  ![Screenshot 2024-01-19 153221](https://github.com/rohan7739/demo_oil/assets/140694225/4d599d70-b00b-473f-ac81-6461d8eaf2bd)
-  ![Screenshot 2024-01-19 153303](https://github.com/rohan7739/demo_oil/assets/140694225/166f208e-619e-44d4-be30-7db9eb7bf723)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/ceea24f3-2ce7-48f4-9c7c-90656af0d172)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/0ac348da-f9e8-461c-b2c8-5927f1dd6a73)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/2f7c4462-0de5-4ec7-9b27-8628e7cf0359)
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/b22c92ec-312d-4815-b520-08c95d023be5)
 
 
 - *Contact us Page*
@@ -95,7 +95,24 @@ The oil and gas industry faces challenges in optimizing operational efficiency a
   ![Screenshot 2024-01-20 232724](https://github.com/rohan7739/demo_oil/assets/140694225/2c745c30-09f6-4cb4-964e-f8e8d1585555)
 
 
-  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
