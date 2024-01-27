@@ -74,6 +74,11 @@ The oil and gas industry faces challenges in optimizing operational efficiency a
 
   ![image](https://github.com/rohan7739/demo_oil/assets/140694225/66d01a97-f964-4453-b8fa-10b27b6619d0)
 
+- *API Management*
+  
+  ![image](https://github.com/rohan7739/demo_oil/assets/140694225/37375682-6e05-4c9e-afb9-fc81706289fe)
+    
+
   # ScreenShots of the website after deploying
 - *Home Page*
 
